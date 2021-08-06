@@ -1,0 +1,11 @@
+framework module IOSBundleForPod {
+  umbrella header "IOSBundleForPod.h"
+
+  export *
+  module * { export * }
+}
+
+module IOSBundleForPod.Swift {
+    header "IOSBundleForPod-Swift.h"
+    requires objc
+}

@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "830506437308DBF78D6AA2244394604B0ACFCF53" : {
+      "DVTSourceControlBranchIdentifierKey" : "main",
+      "DVTSourceControlLocationRevisionKey" : "09e6fea021a9ddf11495be0dfd6006f08872dba4",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "830506437308DBF78D6AA2244394604B0ACFCF53",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DCB353A9-1A90-48AE-A57B-3F7DBE3E754A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "830506437308DBF78D6AA2244394604B0ACFCF53" : "IOSBundleForPod\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IOSBundleForPod",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IOSBundleForPod.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shitaldalavi\/IOSBundleForPod.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "830506437308DBF78D6AA2244394604B0ACFCF53"
+    }
+  ]
+}
